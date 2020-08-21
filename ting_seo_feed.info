@@ -1,0 +1,10 @@
+name = Ting Seo feed
+description = A prototype book feed for google
+package = Ding!
+version = "7.x-1.x-dev"
+core = 7.x
+dependencies[] = ting
+dependencies[] = search
+files[]=lib/TingClientMultiRequestAdapter.php
+
+
